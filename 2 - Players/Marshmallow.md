@@ -1,0 +1,4 @@
+#player
+Marshmallow era um moreau órfão, crescendo sozinho nas [[Uivantes]]. Durante uma missão de mineração, a [[Guilda dos Mineradores]] perturbou a casa de Marshmallow, que os atacou, mas foi derrotado e preso. Enquanto preso, descobriu um [[Traficante|traficante]] que conseguiu trazer marshmallows para a cela, ensinando a palavra para o moreau e a cultuar [[Zakharov (deus)|Zakharov]]. O traficante foi levado para execução, e um [[Sábio da Guilda|Sábio]] da guilda conseguiu convencer Marshmallow a trabalhar para eles como braço em troca de mais marshmallows. Eventualmente, o urso se cansou e descobriu sobre aventuras, convencendo seus chefes a deixá-lo tentar se tornar um aventureiro.
+
+Ninguém percebeu que ele é fêmea.
