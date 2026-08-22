@@ -1,0 +1,3 @@
+#npc 
+
+- Regente de [[Yuvalin]]

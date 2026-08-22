@@ -3,7 +3,7 @@
 - Aprendo a palavra "pássaro" durante a viagem de volta. Os dois tentam decifrar meu idioma
 - Dona Musa compra um jornal com a manchete "Quinze Pessoas Enganadas". As pessoas não gostam do [[Rodford Vharim|regente]] atual de [[Yuvalin]]
 - Descansamos por uma semana, com eu e Alva treinando e Dona Musa trabalhando
-- Vamos para o Distrito da Bigorna e encontramos com [[Penelope Pendragon|Pen-Pen]], que reclama de nossa demora
+- Vamos para o Distrito da Bigorna e encontramos com [[Penélope Pendragon|Pen-Pen]], que reclama de nossa demora
 - Pen-Pen explica que devemos derrotar um espírito de gelo na porrada para ela fazer uma arma
 - Musa faz macarrão com carne de javali do bosque enevoado (+2 Defesa, +10 PV temp., +1 PM temp.) e nos dá +2 PM temp.
 - Pen-Pen quebra o cristal do espírito com um ritual para ele aparecer
@@ -33,7 +33,7 @@
 2. Aurélia ataca por 15 de dano, matando a aranha
 
 # Fim de combate
-- Recebemos T$100 e uma melhoria de bônus pela comida da Musa (Penetrante na minha garra feroz)
+- Recebemos T$100 e uma melhoria de bônus pela comida da Musa (Penetrante na minha garra feroz). Dividimos em 30/30/40, com T$40 para a Musa
 
 **Anterior**: [[Sessão 3]]
 **Próxima**: [[Sessão 5]]

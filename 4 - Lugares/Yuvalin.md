@@ -6,4 +6,4 @@
 
 # Distrito da Bigorna
 - Ferraria
-- [[Penelope Pendragon]]
+- [[Penélope Pendragon]]
