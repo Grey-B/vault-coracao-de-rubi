@@ -1,3 +1,4 @@
+#sessao
 - 1420 D.E. (Depois dos Elfos)
 - Fim da [[Guerra Purista]]
 - [[Guilda dos Mineradores]] controla [[Yuvalin]]
@@ -7,4 +8,4 @@
 - Leste dos [[Uivantes]]
 - Nível 1
 
-Próxima: [[Sessão 1–2]]
+**Próxima**: [[Sessão 1–2]]

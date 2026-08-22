@@ -1,4 +1,4 @@
-#combate
+#sessao #combate
 
 - Armamos buracos para lidar com os mortos-vivos
 - Alva encontra um barril de pólvora
@@ -60,5 +60,5 @@ Zumbis caem no buraco
 - Musa pede para Adina compartilhar resultados
 - Ganhamos 400 T$ (130 pra mim, 130 pro Alva, 140 pra Musa)
 
-Anterior: [[Sessão 1–2]]
-Próxima: [[Sessão 4]]
+**Anterior**: [[Sessão 1–2]]
+**Próxima**: [[Sessão 4]]
