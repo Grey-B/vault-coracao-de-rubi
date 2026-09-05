@@ -3,4 +3,4 @@
 - Meio ditatorial
 - Mantém a paz
 
-Membros: [[Sociedade dos Escolhidos]], [[Sábio da Guilda]]
+Membros: [[Sociedade dos Escolhidos]], [[Sábio da Guilda]], [[Naiáde]]

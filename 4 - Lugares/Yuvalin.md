@@ -13,4 +13,8 @@
 - Distrito residencial
 ## Minas Heldret
 - Parte sul do distrito
+- Mineradores liderados por [[Contramestre Haldor]]
 - Dizem que [[Doherimm]] pode ser ouvida lá
+## Taverna Pombo de Ouro
+- Restaurante top
+- Liderado por [[Chef Rizzelena]]
